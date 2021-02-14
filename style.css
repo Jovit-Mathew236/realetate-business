@@ -46,7 +46,7 @@ nav {
 }
 
 .action .profile img {
-    position: absolute;
+    position: fixed;
     top: 8px;
     left: 0;
     width: 100%;
@@ -134,4 +134,10 @@ nav {
 
 .action .menu ul li:hover a {
     color: #ef5d94;
+}
+.more-info img{
+    width: 20px;
+    height: 20px;
+    margin-left: 225px;
+    filter: hue-rotate(90deg);
 }
