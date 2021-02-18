@@ -143,6 +143,7 @@ nav {
 .circd{
     border-radius: 100px;
     border: rgb(201, 1, 219) solid 1px;
+    margin-top: 20px;
     height: 200px;
     width: 210px;
     align-items: center;
@@ -181,4 +182,5 @@ nav {
     background-color: rgba(255, 255, 255, 0);
     filter: blur(.1);
     color: white;
+    border:1px solid white;
 }
